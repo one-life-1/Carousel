@@ -9,7 +9,18 @@ body{
     font-family: 'Odibee Sans', cursive;
     margin-bottom: 0;
   }
-  
+    .left{
+    position: absolute;
+    top: 45%;
+  }
+  .right{
+    position: absolute;
+    top: 45%;
+      right: 0%;
+  }
+button {
+    display: none;
+}
   #css {
     color: yellow;
     font-family: 'Odibee Sans', cursive;
