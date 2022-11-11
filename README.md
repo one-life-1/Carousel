@@ -1,2 +1,4 @@
-# Week-7
+
+## 🔗 Week-7
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://My-Portfolio.nurudeenajadi.repl.co)
 A sample slideshow with 6 images
