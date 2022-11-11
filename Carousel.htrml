@@ -11,7 +11,7 @@
 <body>
   <h1>Pure <span id="css">Css</span> Carousel</h1>
   <button class="left" onclick="myfunction(-1)"></button>
-<button class="right" onclick="myfunction(-1)"></button>
+<button class="right" onclick="myfunction(1)"></button>
 
   <div class="carousel-wrapper">
     <span id="item-1"></span>
