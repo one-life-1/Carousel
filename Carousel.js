@@ -1,4 +1,4 @@
-<script>
+  <script>
     const swiper = new Swiper(".swiper", {
     loop: true,
 
@@ -12,3 +12,4 @@
         prevEl: ".swiper-button-prev",
     },
 });
+  </script>
